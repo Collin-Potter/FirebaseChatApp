@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "447360808999",
+    "firebase_url": "https://fir-chat-app-244819.firebaseio.com",
+    "project_id": "firebase-chat-app-244819",
+    "storage_bucket": "firebase-chat-app-244819.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447360808999:android:fbb0aced4b1e86ab",
+        "android_client_info": {
+          "package_name": "com.capotter.firebasechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447360808999-eughfnvcs5pijsqqadt4h30pblc92pb4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capotter.firebasechatapp",
+            "certificate_hash": "73527da251543e5166f27db294344eeecca67c91"
+          }
+        },
+        {
+          "client_id": "447360808999-637a4uvvbi2j6luphaq2oaebhuoofshf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capotter.firebasechatapp",
+            "certificate_hash": "28359c3b9c1f1b60d542feb8e8620075eeb171cd"
+          }
+        },
+        {
+          "client_id": "447360808999-lin2n582erpo8kiqadvnkefqloqh2v8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLnmaBJGqJFS1tp-LamXTIw5DpMsecLUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447360808999-lin2n582erpo8kiqadvnkefqloqh2v8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
